@@ -32,6 +32,7 @@ function getWinner(){
     return humanScore > computerScore ? "Human Wins!!" : humanScore == computerScore ? "Tie" : "Computer Wins!!"
 }
 
+/*
 function playGame()
 {
     for(let i = 0; i < 5; i++)
@@ -43,4 +44,4 @@ function playGame()
     console.log(getWinner());
 }
 
-playGame()
+playGame()*/
